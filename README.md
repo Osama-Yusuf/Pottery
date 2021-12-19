@@ -1,4 +1,5 @@
-# [Pottery - StarDust](https://stardust-pottery.netlify.app/)   In Development
+# [Pottery - StarDust](https://stardust-pottery.netlify.app/)   
+###### (In Development)
 **An Ecommerce website for purchasing potteries-vases**
 #### I've built the UI UX and did the coding as well for this simple & dynamic Ecommerce website
 
