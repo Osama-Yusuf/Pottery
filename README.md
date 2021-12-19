@@ -1,5 +1,5 @@
 # [Pottery - StarDust](https://stardust-pottery.netlify.app/)
-**An Ecommerce website to purchase potteries**
+**An Ecommerce website for purchasing potteries-vases**
 #### I've built the UI UX and did the coding as well for this simple & dynamic Ecommerce website
 
 ---
